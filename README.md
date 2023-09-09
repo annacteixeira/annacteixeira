@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA85D8&section=header"/> //HEADER
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA85D8&section=header"/> !--HEADER--!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA85D8&size=35&center=true&width=1000&lines=Hello,+my+name+is+Anna+Chandra+:D;I'm+18+years+old;I+am+from+Brazil;I+am+an+Aeronautical+Engineering+student;Be+welcome!+:%29)](git.io/typing-svg) //FRASE PRINCIPAL
 
 <div align="center">
 <a href="https://www.instagram.com/annafteixeira7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/annafteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" style="border-radius: 30 px" target="_blank"></a>
-</div> //BADGES REDES SOCIAIS
+</div>
   
 <br>
 

@@ -15,3 +15,4 @@
 
 <div align="center">
 <a href="https://www.instagram.com/annafteixeira7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/annafteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logoColor=white" style="border-radius: 30 px" target="_blank"></a>

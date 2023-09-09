@@ -17,7 +17,7 @@
  </div> 
  <br>
 <div align="center">
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=annacteixeira&show_icons=true&count_private=true&hide_border=true&title_color=FA85D8&icon_color=FA85D8&text_color=FA85D8&bg_color=FFFFFF" alt=Anna Chandra github stats />
 </div> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=annacteixeira&bg_color=fffffff&color=fa85d8&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 

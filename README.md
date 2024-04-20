@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA85D8&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA85D8&size=35&center=true&width=1000&lines=Hello,+my+name+is+Anna+Chandra+:D;I'm+19+years+old;I+am+a+Software+Engineer+Student+at+PUC+Minas;Be+welcome!+:%29)](git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA85D8&size=35&center=true&width=1000&lines=Hello,+my+name+is+Anna+Chandra+:D;I'm+19+years+old;I+am+a+Software+Engineer+student+at+PUC+Minas;Be+welcome!+:%29)](git.io/typing-svg)
 
 <div align="center">
 <a href="https://www.instagram.com/annafteixeira7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>

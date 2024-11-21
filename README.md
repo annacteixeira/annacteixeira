@@ -27,8 +27,8 @@
 </p> 
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=annacteixeira&show_icons=true&theme=transparent&include_all_commits=true"><img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=annacteixeira&show_icons=true&theme=transparent&include_all_commits=true"/></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=annacteixeira&layout=compact&langs_count=7&theme=transparent"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacteixeira&layout=compact&langs_count=7&theme=transparent"/></a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=annacteixeira&theme=transparent"><img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=annacteixeira&theme=transparent"/></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=annacteixeira&show_icons=true&theme=transparent&include_all_commits=true"><img width="360em" src="https://github-readme-stats.vercel.app/api?username=annacteixeira&show_icons=true&theme=transparent&include_all_commits=true"/></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=annacteixeira&layout=compact&langs_count=7&theme=transparent"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacteixeira&layout=compact&langs_count=7&theme=transparent"/></a>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=annacteixeira&theme=transparent"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=annacteixeira&theme=transparent"/></a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA85D8&section=footer"/> 

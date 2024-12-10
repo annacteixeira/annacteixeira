@@ -64,4 +64,7 @@
 </tr> 
 </table>
 </div>
+
+<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=annacteixeira"/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA85D8&section=footer"/> 

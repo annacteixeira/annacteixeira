@@ -66,5 +66,6 @@
 </div>
 
 <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=annacteixeira"/>
+[![wakatime](https://wakatime.com/badge/user/d7f5b8f2-3570-42d6-b82d-095f1c73cac4.svg)](https://wakatime.com/@d7f5b8f2-3570-42d6-b82d-095f1c73cac4)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA85D8&section=footer"/> 

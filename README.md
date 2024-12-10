@@ -30,8 +30,26 @@
     <a href="https://github-readme-stats.vercel.app/api?username=annacteixeira&show_icons=true&theme=transparent&include_all_commits=true"><img width="360em" src="https://github-readme-stats.vercel.app/api?username=annacteixeira&show_icons=true&theme=transparent&include_all_commits=true"/></a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=annacteixeira&layout=compact&langs_count=7&theme=transparent"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annacteixeira&layout=compact&langs_count=7&theme=transparent"/></a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=annacteixeira&theme=transparent"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=annacteixeira&theme=transparent"/></a>
-  <img alt="WakaTime" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=annacteixeira&theme=dark&layout=compact"/>
 </p>
+
+<table>
+<tr>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/annacteixeira" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@annacteixeira">WakaTime</a></td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/annacteixeira/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=annacteixeira&theme=dark&layout=compact"/>
+</td>
+</tr>
+<tr>
+ <td align="center"></td>
+ <td align="center"></td>
+</tr> 
+</table>
 
 <div>
  

@@ -8,14 +8,6 @@
 </div>
   
 <br>
-
- <p>Stacks que uso no meu dia-a-dia</p><div style="display: inline_block">
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
- </div> 
- <br>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=annacteixeira&show_icons=true&count_private=true&hide_border=true&title_color=FA85D8&icon_color=FA85D8&text_color=FA85D8&bg_color=FFFFFF" alt=Anna Chandra github stats />
 </div> 

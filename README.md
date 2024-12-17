@@ -9,7 +9,7 @@
 
 <br>
 <div align="center">
-  <img src="https://i.ibb.co/znhsG49/Linguagens-Banner-Git-Hub.png" alt="Linguagens-Banner-Git-Hub" border="0" width="800px">
+  <img src="https://i.ibb.co/7NCs2hc/Languages-Banner-Git-Hub.png" alt="Linguagens-Banner Git-Hub" border="0" width="900px">
 </div>
   
 <br>

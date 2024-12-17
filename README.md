@@ -4,7 +4,7 @@
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 - 💼 &nbsp;I’m currently working as an Operational Tools Analyst 
-- 🌱 &nbsp;I’m currently learning Machine Learning with Python 🐍
+- 🌱 &nbsp;I’m currently studying Machine Learning with Python 🐍
 - 💬 &nbsp;I like to talk about books, movie and music
 - 👨‍💻 &nbsp;I study Software Engineering at PUC Minas and I am an Electrotechnical Technician by CEFET-MG
 - ⚡ &nbsp;Fun fact: I :heart: helping people and want to be a teacher in the future

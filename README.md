@@ -2,14 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA85D8&size=35&center=true&width=1000&lines=Hello,+my+name+is+Anna+Chandra+:D;I'm+20+years+old;I+am+a+Software+Engineer+student+at+PUC+Minas;Be+welcome!+:%29)](git.io/typing-svg)
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 - 💼 &nbsp;I’m currently working as an Operational Tools Analyst 
 - 🌱 &nbsp;I’m currently studying Machine Learning with Python 🐍
 - 💬 &nbsp;I like to talk about books, movie and music
 - 👨‍💻 &nbsp;I study Software Engineering at PUC Minas and I am an Electrotechnical Technician by CEFET-MG
 - ⚡ &nbsp;Fun fact: I :heart: helping people and want to be a teacher in the future
 
-### You can find me at my social medias:
+## Projects that I have worked on:
+#### 📌 Projeto de Circuitos Eletrônicos Não-Lineares para Estudo de Sincronismo e Caos - Design of Non-Linear Electronic Circuits for Studying Synchronism and Chaos
+<p>
+This project aims to develop and experimentally analyze non-linear electronic circuits, characterized by complex dynamic behaviors, such as oscillator synchronism and chaos, with applications in power networks, multi-agent systems and neural networks. Despite theoretical advances, many studies do not consider real characteristics such as uncertainty and noise. To fill this gap, the project proposes to build circuits such as the Kuramoto and Chua oscillators, offering an experimental platform to validate theoretical and computational techniques, strengthening the connection between theoretical and experimental research.
+</p>
+
+### CEFAST Aerospace
+<p>
+CEFAST AeroSpace is an aerospace competition team formed by students from CEFET-MG, and its objective is to develop teaching satellites and meteorological probes for competitions, promote lectures and workshops for teachers and students in the metropolitan region of Belo Horizonte, aiming to attract young students for careers in technology and science communication.
+</p>
+
+## You can find me at my social medias:
 
 <br>
 

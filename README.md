@@ -2,12 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA85D8&size=35&center=true&width=1000&lines=Hello,+my+name+is+Anna+Chandra+:D;I'm+20+years+old;I+am+a+Software+Engineer+student+at+PUC+Minas;Be+welcome!+:%29)](git.io/typing-svg)
 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+- 💼 &nbsp;I’m currently working as an Operational Tools Analyst 
+- 🌱 &nbsp;I’m currently learning Machine Learning with Python 🐍
+- 💬 &nbsp;I like to talk about books, movie and music
+- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- ⚡ &nbsp;Fun fact: I :heart: helping people and want to be a teacher in the future
+
+### You can find me at my social medias:
+
+<br>
+
 <div align="center">
 <a href="https://www.instagram.com/annafteixeira7/" target="_blank"><img src="https://i.ibb.co/b6PKyY7/instagram.png" width="48px"></a>
 <a href="https://www.linkedin.com/in/annacteixeira/" target="_blank"><img src="https://i.ibb.co/LPjxj2K/linkedin-1.png" width="48px" target="_blank"></a>
 <a href="https://www.discordapp.com/users/annacteixeira" target="_blank"><img src="https://i.ibb.co/ryyqvvm/discord-1.png" width="48px" target="_blank"></a>
-
 </div>
+
+<hr>
 
 <br>
 <div align="center">

@@ -6,6 +6,11 @@
 <a href="https://www.instagram.com/annafteixeira7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/annacteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" style="border-radius: 30 px" target="_blank"></a>
 </div>
+
+<br>
+<div align="center">
+  <img src="https://i.ibb.co/znhsG49/Linguagens-Banner-Git-Hub.png" alt="Linguagens-Banner-Git-Hub" border="0" width="600px">
+</div>
   
 <br>
 <div align="center">

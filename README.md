@@ -5,6 +5,7 @@
 <div align="center">
 <a href="https://www.instagram.com/annafteixeira7/" target="_blank"><img src="https://i.ibb.co/b6PKyY7/instagram.png" width="48px"></a>
 <a href="https://www.linkedin.com/in/annacteixeira/" target="_blank"><img src="https://i.ibb.co/LPjxj2K/linkedin-1.png" width="48px" target="_blank"></a>
+<a href="discordapp.com/users/annacteixeira" target="_blank"><img src="https://i.ibb.co/5TVZLTk/discord.png" width="48px" target="_blank"></a>
 
 </div>
 

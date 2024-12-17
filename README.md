@@ -17,7 +17,7 @@ This project aims to develop and experimentally analyze non-linear electronic ci
 
 #### 🔭 CEFAST Aerospace
 <p>
-CEFAST AeroSpace is an aerospace competition team formed by students from CEFET-MG, and its objective is to develop teaching satellites and meteorological probes for competitions, promote lectures and workshops for teachers and students in the metropolitan region of Belo Horizonte, aiming to attract young students for careers in technology and science.
+CEFAST AeroSpace is an aerospace competition team formed by students from CEFET-MG, and its objective is to develop satellites and meteorological probes for competitions, promote lectures and workshops for teachers and students in the metropolitan region of Belo Horizonte, aiming to attract young students for careers in technology and science.
 </p>
 
 #### 👩‍💻 Agência Experimental de Software

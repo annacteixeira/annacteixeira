@@ -6,21 +6,21 @@
 - 💼 &nbsp;I’m currently working as an Operational Tools Analyst 
 - 🌱 &nbsp;I’m currently studying Machine Learning with Python 🐍
 - 💬 &nbsp;I like to talk about books, movie and music
-- 👨‍💻 &nbsp;I study Software Engineering at PUC Minas and I am an Electrotechnical Technician by CEFET-MG
+- 👩‍💻 &nbsp;I study Software Engineering at PUC Minas and I am an Electrotechnical Technician by CEFET-MG
 - ⚡ &nbsp;Fun fact: I :heart: helping people and want to be a teacher in the future
 
 ## Projects that I have worked on:
-#### 📌 Projeto de Circuitos Eletrônicos Não-Lineares para Estudo de Sincronismo e Caos - Design of Non-Linear Electronic Circuits for Studying Synchronism and Chaos
+#### 💡 Projeto de Circuitos Eletrônicos Não-Lineares para Estudo de Sincronismo e Caos - Design of Non-Linear Electronic Circuits for Studying Synchronism and Chaos
 <p>
 This project aims to develop and experimentally analyze non-linear electronic circuits, characterized by complex dynamic behaviors, such as oscillator synchronism and chaos, with applications in power networks, multi-agent systems and neural networks. Despite theoretical advances, many studies do not consider real characteristics such as uncertainty and noise. To fill this gap, the project proposes to build circuits such as the Kuramoto and Chua oscillators, offering an experimental platform to validate theoretical and computational techniques, strengthening the connection between theoretical and experimental research.
 </p>
 
-#### 📌 CEFAST Aerospace
+#### 🔭 CEFAST Aerospace
 <p>
 CEFAST AeroSpace is an aerospace competition team formed by students from CEFET-MG, and its objective is to develop teaching satellites and meteorological probes for competitions, promote lectures and workshops for teachers and students in the metropolitan region of Belo Horizonte, aiming to attract young students for careers in technology and science communication.
 </p>
 
-#### 📌 Agência Experimental de Software
+#### 👩‍💻 Agência Experimental de Software
 <p>
 The Agência Experimental de Software (Experimental Software Agency) is an organization that exists within the software engineering course at PUC Minas, a non-profit organization that seeks to develop technological solutions for internal and external clients of the organization and the University.
 </p>

@@ -35,8 +35,6 @@ The Agência Experimental de Software (Experimental Software Agency) is an organ
 <a href="https://www.discordapp.com/users/annacteixeira" target="_blank"><img src="https://i.ibb.co/ryyqvvm/discord-1.png" width="48px" target="_blank"></a>
 </div>
 
-<hr>
-
 <br>
 <div align="center">
   <img src="https://i.ibb.co/7NCs2hc/Languages-Banner-Git-Hub.png" alt="Linguagens-Banner Git-Hub" border="0" width="800px">

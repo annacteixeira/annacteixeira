@@ -6,7 +6,7 @@
 - 💼 &nbsp;I’m currently working as an Operational Tools Analyst 
 - 🌱 &nbsp;I’m currently learning Machine Learning with Python 🐍
 - 💬 &nbsp;I like to talk about books, movie and music
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- 👨‍💻 &nbsp;I study Software Engineering at PUC Minas and I am an Electrotechnical Technician by CEFET-MG
 - ⚡ &nbsp;Fun fact: I :heart: helping people and want to be a teacher in the future
 
 ### You can find me at my social medias:

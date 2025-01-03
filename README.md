@@ -76,7 +76,11 @@ The Agência Experimental de Software (Experimental Software Agency) is an organ
 </tr> 
 </table>
 
-![Snake animation](https://github.com/annacteixeira/annacteixeira/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annacteixeira/annacteixeira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annacteixeira/annacteixeira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div>
  
@@ -100,7 +104,7 @@ The Agência Experimental de Software (Experimental Software Agency) is an organ
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=31ta72mm3k6rasrlmthprdmhta64&count=10"/>
 </td>
 <td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+
 <a href="https://www.last.fm/pt/user/annacteixeira" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=annacteixeira&width=400"/></a>
 </td>
 </tr>

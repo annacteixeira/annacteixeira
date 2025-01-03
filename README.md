@@ -77,6 +77,10 @@ The Agência Experimental de Software (Experimental Software Agency) is an organ
 </table>
 
 <div>
+  ![Snake animation](https://github.com/annacteixeira/annacteixeira/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div>
  
 <div>
 <details>

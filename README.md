@@ -7,7 +7,7 @@
 - 🌱 &nbsp;I’m currently studying Machine Learning with Python 🐍
 - 💬 &nbsp;I like to talk about books, movies and music
 - 👩‍💻 &nbsp;I study Software Engineering at PUC Minas and I am an Electrotechnical Technician by CEFET-MG
-- ⚡ &nbsp;Fun fact: I :heart: helping people and want to be a teacher in the future
+- 💜 &nbsp;Fun fact: I :heart: helping people and want to be a teacher in the future
 
 ## Projects that I have worked on:
 #### 💡 Projeto de Circuitos Eletrônicos Não-Lineares para Estudo de Sincronismo e Caos - Design of Non-Linear Electronic Circuits for Studying Synchronism and Chaos

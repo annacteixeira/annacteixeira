@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA85D8&size=35&center=true&width=1000&lines=Hello,+my+name+is+Anna+Chandra+:D;I'm+20+years+old;I+am+a+Software+Engineer+student+at+PUC+Minas;Be+welcome!+:%29)](git.io/typing-svg)
 
 ## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
-- 💼 &nbsp;I’m currently working as an Operational Tools Analyst 
+- 💼 &nbsp;I’m currently working as a Quality Assurance Analyst
 - 🌱 &nbsp;I’m currently studying Machine Learning with Python 🐍
 - 💬 &nbsp;I like to talk about books, movies and music
 - 👩‍💻 &nbsp;I study Software Engineering at PUC Minas and I am an Electrotechnical Technician by CEFET-MG

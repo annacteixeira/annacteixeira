@@ -80,13 +80,6 @@ The Agência Experimental de Software (Experimental Software Agency) is an organ
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
- 
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Anna's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ta72mm3k6rasrlmthprdmhta64" alt="Data Card for Spotify">
-</details>
-</div>
 
 <img width="100" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=annacteixeira"/>
 <a href="https://wakatime.com/@d7f5b8f2-3570-42d6-b82d-095f1c73cac4"><img src="https://wakatime.com/badge/user/d7f5b8f2-3570-42d6-b82d-095f1c73cac4.svg" alt="Total time coded since Nov 21 2024" /></a>

@@ -35,6 +35,7 @@ The Agência Experimental de Software (Experimental Software Agency) is an organ
 <a href="https://www.discordapp.com/users/annacteixeira" target="_blank"><img src="https://i.ibb.co/ryyqvvm/discord-1.png" width="48px" target="_blank"></a>
 </div>
 
+<!--
 <br>
 <div align="center">
   <img src="https://i.ibb.co/tSyX5BM/Languages-Banner-Git-Hub.png" alt="Linguagens-Banner Git-Hub" border="0" width="800px">
@@ -74,13 +75,14 @@ The Agência Experimental de Software (Experimental Software Agency) is an organ
 </tr> 
 </table>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annacteixeira/annacteixeira/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annacteixeira/annacteixeira/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
+-->
 <img width="100" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=annacteixeira"/>
 <a href="https://wakatime.com/@d7f5b8f2-3570-42d6-b82d-095f1c73cac4"><img src="https://wakatime.com/badge/user/d7f5b8f2-3570-42d6-b82d-095f1c73cac4.svg" alt="Total time coded since Nov 21 2024" /></a>
 
